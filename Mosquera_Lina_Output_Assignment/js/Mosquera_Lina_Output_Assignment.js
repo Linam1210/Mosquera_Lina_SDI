@@ -5,8 +5,10 @@
 //assigning string variables//
 
 var myNationality = "colombian";
+var favoriteFood = "seafood"
 
 console.log(myNationality)
+console.log(favoriteFood)
 
 //assigning number variables//
 
@@ -16,5 +18,9 @@ console.log(myPhoneNumber)
 
 //assigning Boolean variable//
 
-var isMarried = false
+var isMarried = false;
+
+console.log(isMarried)
+
+
 
