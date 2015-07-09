@@ -14,4 +14,7 @@ var myPhoneNumber = 2817303338;
 
 console.log(myPhoneNumber)
 
+//assigning Boolean variable//
+
+var isMarried = false
 
