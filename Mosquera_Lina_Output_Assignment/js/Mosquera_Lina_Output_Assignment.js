@@ -7,16 +7,17 @@
 var myNationality = "colombian";
 var favoriteFood = "seafood";
 
-console.log(myNationality)
-console.log(favoriteFood)
+console.log("Hi, I am " + myNationality)
+console.log("My Favorite Food is " + favoriteFood)
 
 //assigning number variables//
 
 var myPhoneNumber = 2817303338;
 var numberOfSiblings = 2;
 
-console.log(myPhoneNumber)
-console.log(numberOfSiblings)
+console.log("you can always reach me at "
++ myPhoneNumber)
+console.log("I have " + numberOfSiblings + " siblings " )
 
 //assigning Boolean variable//
 
