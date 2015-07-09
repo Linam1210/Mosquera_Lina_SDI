@@ -24,8 +24,8 @@ console.log("I have " + numberOfSiblings + " siblings " )
 var isMarried = false;
 var anyPets = true;
 
-console.log(isMarried)
-console.log(anyPets)
+console.log("I am married." + isMarried)
+console.log("I have pets." +anyPets)
 
 
 
