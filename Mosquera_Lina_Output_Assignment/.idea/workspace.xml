@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b023b59d-aa91-4f00-9571-3171a4d6c04d" name="Default" comment="" />
+    <list default="true" id="b023b59d-aa91-4f00-9571-3171a4d6c04d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Mosquera_Lina_Output_Assignment.js" afterPath="$PROJECT_DIR$/js/Mosquera_Lina_Output_Assignment.js" />
+    </list>
     <ignored path="Mosquera_Lina_Output_Assignment.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +36,8 @@
       <file leaf-file-name="Mosquera_Lina_Output_Assignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/Mosquera_Lina_Output_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74157304">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.33707866">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -235,8 +237,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Mosquera_Lina_Output_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74157304">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33707866">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

@@ -7,7 +7,7 @@
 var myNationality = "colombian";
 var favoriteFood = "seafood";
 
-console.log("Hi, I am " + myNationality)
+console.log("Hi, my nationality is " + myNationality)
 console.log("My Favorite Food is " + favoriteFood)
 
 //assigning number variables//
