@@ -24,6 +24,7 @@ var isMarried = false;
 var anyPets = true;
 
 console.log(isMarried)
+console.log(anyPets)
 
 
 
