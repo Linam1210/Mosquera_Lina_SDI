@@ -19,6 +19,7 @@ var totalExpensesAndEntert =  monthlyExpenses[0] + monthlyExpenses [1] + monthly
     + monthlyEntertainment;// this variable is a calculation but not the final calculation, I use this variable to determine the total amount spend between expenses and entertainment//
 var totalSavings= monthlyIncome - totalExpensesAndEntert;//This variable is the first part of the final calculation. I took the monthly income and subtracted the total amount given from the previous variable
 totalSavings *= 0.30;//this variable completes the final calculation by taking the totalsavings amount and multiplying by 0.30, which is the same as taking 30% out of the totalsavings amount//
+
 console.log("your monthly income is" + " " + monthlyIncome);//store the amount of the monthly income entered by the user and it will be displayed in the console//
 console.log("your spend" + " " + commute + " " + "on commute a month");//here the amount of the monthly commute is store and display in the console//
 console.log("your monthly utility bill is" + " " + monthlyExpenses[0]);//the monthly utility bill amount is store here after the users enters the info. it will display in the console//
