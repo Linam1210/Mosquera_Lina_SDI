@@ -22,3 +22,8 @@ totalSavings *= 0.30;//this variable completes the final calculation by taking t
 console.log("your monthly income is" + " " + monthlyIncome);//store the amount of the monthly income entered by the user and it will be displayed in the console//
 console.log("your spend" + " " + commute + " " + "on commute a month");//here the amount of the monthly commute is store and display in the console//
 console.log("your monthly utility bill is" + " " + monthlyExpenses[0]);//the monthly utility bill amount is store here after the users enters the info. it will display in the console//
+console.log("your monthly mortgage is" + " " + monthlyExpenses[1]);// total monthly mortagage amount is stored here and displayed in the console//
+console.log("your monthly car payment is" + " " + monthlyExpenses[2]);//total monthly car payment entered by the user when prompted is stored here and displayed in the console//
+console.log("your monthly insurance bill is" + " " + monthlyExpenses[3]);//total monthly insurance entered by the user when prompted is stored here and displayed in the console//
+console.log("the total amount of monthly expenses is" + " " + (monthlyExpenses[0] + monthlyExpenses[1] + monthlyExpenses[2] + monthlyExpenses[3])); //total amount of all the expenses is added and stored here to display in the console.//
+console.log("Total amount spend on entertainment is" + " " + monthlyEntertainment)//The total amount spend on entertainment a month by the user is stored here.//
