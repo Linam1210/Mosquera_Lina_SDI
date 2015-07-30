@@ -53,3 +53,14 @@ function powerBallLott (min, max, num){ //function shet up for the Power Ball Lo
     }
 
 }
+
+lottery = lotteryVal(lottery) // here we are calling the first function where we ask the user to select between the two lotteries//
+console.log("you selected option" + " " + lottery )// prints selection of lottery to the console//
+
+floridaNums = floridaLott(1 ,53 ,6)// We are calling the florida lottery function and set up parameters and arguments//
+console.log("Here is your Florida Lottery numbers" + " " + floridaNums + ".") // A set of 6 random numbers between 1 and 53 are printing to the console//
+
+powerBallNums = powerBallLott(1,59,5)// We are calling the Power Ball lottery function and set up parameters and arguments//
+
+powerBall = powerBallLott(1,35,1)//We are calling the PB function and set up parameters and arguments//
+console.log("Here is your Power Ball Lottery Numbers" + " " + powerBallNums + " " + "with PB" + " " + powerBall + ".")// A set of 5 random number between 1 and 59 are printing to the console as well as the PB number which is 1 random number between 1 and 35//
