@@ -16,3 +16,22 @@ function lotteryVal(lotterySelec) { //here I am setting up the first function to
 
 
 }
+
+function floridaLott (min, max, num) { // this function is set up for the Florida Lottery//
+
+    if (lottery === "1") {  // if the user selects option 1 than the code below will run//
+
+
+        var floridaArray = [];// this variable will store the random numbers that we need to        generate for the florida Lotteryy//
+
+        for (var i = 0; i < num; i++) { // for loop is set up to generate random numbers            inside of the array
+
+            var floridaRandom = Math.random() * (max - min) + min;
+            floridaArray [i] = Math.round(floridaRandom)// math object here is use to
+            //generate random numbers and also to have those numbers rounded to a whole                 number//
+
+        }
+        return floridaArray;// returning the random number into the array variable//
+    }
+
+}
